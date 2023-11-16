@@ -1,0 +1,14 @@
+# Contribuer au Système de Gestion du Centre d'Appel
+
+## Processus de Contribution
+
+1. Forkez le projet.
+2. Créez votre branche de fonctionnalité (`git checkout -b feature/nom_de_la_fonctionnalite`).
+3. Commitez vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`).
+4. Pushez vers la branche (`git push origin feature/nom_de_la_fonctionnalite`).
+5. Créez une nouvelle Pull Request.
+
+## Convention de Code
+
+- Respectez les normes de codage définies dans chaque module.
+- Utilisez des messages de commit clairs et significatifs.
